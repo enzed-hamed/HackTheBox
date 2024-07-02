@@ -1,2 +1,2 @@
 # HackTheBox
-A collection of write-ups and custom scripts for pwning Hack The Box machines.
+A collection of writeups and custom scripts for pwning Hack The Box machines.
